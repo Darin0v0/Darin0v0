@@ -6,6 +6,9 @@ Beginner programmer.
 
 don't expect too much from me
 
+I love Linux 
+I use Fedora btw.....
+
 
 <!---
 Dawvonmur/Dawvonmur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
