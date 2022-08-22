@@ -7,7 +7,7 @@ Beginner programmer.
 don't expect too much from me
 
 I love Linux 
-I use Fedora btw.....
+I use Arch btw.....
 
 
 <!---
