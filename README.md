@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawvonmur
 -
-- 🌱 I’m currently learning Html, Java, Ruby
+- 🌱 I’m currently learning Html, Java, C++
 - 
 Beginner programmer.
 
