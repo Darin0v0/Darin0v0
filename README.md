@@ -12,7 +12,7 @@
     margin: 0;
   ">
    
-The Wired 2.0<br>
+The Wired 2.0<br><hr><br>
 ⌈いとをひく⌋
 
   </h2>
