@@ -50,8 +50,6 @@ class LainInterface:
 </div>
 ### 🧬 **ACTIVE PROTOCOLS**
 <div align="center">
-  <img src="https://i.imgur.com/Jx3mJ5E.gif" width="400" style="border-radius: 8px; margin: 10px 0; border: 1px solid #7F16EE; box-shadow: 0 0 15px #FF00FF">
-
   <table>
     <tr>
       <th width="30%">PROJECT</th>
