@@ -1,33 +1,44 @@
 <div align="center">
-  <img src="https://fauux.neocities.org/wiredLogInNew_512px_06.gif" width="600" alt="Let's all love Lain">
+  <!-- Full-width animated background -->
+  <img src="https://fauux.neocities.org/wiredLogInNew_512px_06.gif" width="800" style="margin: -50px 0 -30px 0" alt="Wired Connection">
 
-
-<div class="opacityContent">
-<h1 id="intro">The Wired 2.0</h1>
-<hr>
-<h2 class="jp">⌈いとをひく⌋</h2>
-</div>
-
-  
-  <!-- Glitch text -->
-  <h2> 
-    ░▒▓█≪✠≫𝕃𝔸𝕀ℕ'𝕤 𝕎𝕀ℝ𝔼𝔻≪✠≫█▓▒░
+  <!-- Instant glitch header with inline animation -->
+  <h2 style="
+    background: linear-gradient(90deg, #7F16EE 0%, #FF00FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Courier New', monospace;
+    animation: glitch 1s linear infinite;
+    margin: 0;
+  ">
+    ░▒▓█≪✠≫𝕃𝔸𝕀ℕ'𝕊 𝕎𝕀ℝ𝔼𝔻≪✠≫█▓▒░
   </h2>
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=7F16EE&width=435&lines=CONNECTING+TO+THE+WIRED...;PROTOCOL+7+ACTIVATED;YOU+DON'T+SEEM+TO+UNDERSTAND)
+
+  <!-- Pre-loaded typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=0&color=7F16EE&width=435&lines=CONNECTED+TO+THE+WIRED;PROTOCOL+7+ACTIVATED;USER%3A+DARIN0V0" alt="Terminal Text">
 </div>
+
+<!-- CSS Glitch Effect -->
+<style>
+  @keyframes glitch {
+    0% { text-shadow: 0.05em 0 0 #FF00FF, -0.05em -0.025em 0 #7F16EE; }
+    25% { text-shadow: -0.05em -0.025em 0 #FF00FF, 0.025em 0.025em 0 #7F16EE; }
+    50% { text-shadow: 0.025em 0.05em 0 #FF00FF, 0.05em 0 0 #7F16EE; }
+    100% { text-shadow: -0.025em 0 0 #FF00FF, -0.025em -0.025em 0 #7F16EE; }
+  }
+</style>
 
 ---
 
-### 💾 **BIO**  
+### 💾 **DIGITAL SHRINE**  
 ```python
-class LainUser:
+class LainInterface:
     def __init__(self):
-        self.username = "Darin0v0"
-        self.identity = "Digital Shrine Maiden"
+        self.user = "Darin0v0"
         self.layer = "07"
-        self.hardware = ["Navi", "Psyché", "Protocol 7"]
+        self.connection = "Ethernet"
         self.status = "Always connected"
+        self.protocols = ["7", "Navi", "Schumann"]
     
-    def __str__(self):
-        return "And you don't seem to understand..."
+    def __repr__(self):
+        return "Present day... present time..."
