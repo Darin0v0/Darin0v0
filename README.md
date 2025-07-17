@@ -31,7 +31,6 @@
 <div align="center">
   
   ### 💾 **DIGITAL SHRINE**  
-  <img src="https://i.imgur.com/YKj5yqN.gif" width="50" style="margin: -10px 0 -20px 0">
 
   ```python
   class LainInterface:
