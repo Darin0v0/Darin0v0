@@ -28,8 +28,6 @@
 
 ---
 
-
-<center><h1>### 💾 **DIGITAL SHRINE**  </h1></center>
 <div align="center">
   
   ### 💾 **DIGITAL SHRINE**  
