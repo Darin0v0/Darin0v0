@@ -51,8 +51,8 @@ class LainInterface:
 🧬 ACTIVE PROTOCOLS
 <div align="center"> <img src="https://i.imgur.com/Jx3mJ5E.gif" width="400" style="border-radius: 8px; margin: 10px 0">
 PROJECT	STATUS	PROGRESS
-Navi_OS	ACTIVE	https://progress-bar.dev/38/?color=7F16EE
-Schumann	DEBUG	https://progress-bar.dev/72/?color=FF00FF
+Navi_OS	ACTIVE	<img src="https://progress-bar.dev/38/?color=7F16EE">
+Schumann	DEBUG	<img src="https://progress-bar.dev/72/?color=FF00FF">
 </div>
 📟 CONNECTION NODES
 <div align="center" style="margin-top: 20px">
