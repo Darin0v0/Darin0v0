@@ -48,11 +48,27 @@ class LainInterface:
 <img src="https://img.shields.io/badge/C%252B%252B-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white">
 <img src="https://img.shields.io/badge/GLSL-5686F5?style=for-the-badge&logo=opengl&logoColor=white">
 </div>
-🧬 ACTIVE PROTOCOLS
-<div align="center"> <img src="https://i.imgur.com/Jx3mJ5E.gif" width="400" style="border-radius: 8px; margin: 10px 0">
-PROJECT	STATUS	PROGRESS
-Navi_OS	ACTIVE	<img src="https://progress-bar.dev/38/?color=7F16EE">
-Schumann	DEBUG	<img src="https://progress-bar.dev/72/?color=FF00FF">
+### 🧬 **ACTIVE PROTOCOLS**
+<div align="center">
+  <img src="https://i.imgur.com/Jx3mJ5E.gif" width="400" style="border-radius: 8px; margin: 10px 0; border: 1px solid #7F16EE; box-shadow: 0 0 15px #FF00FF">
+
+  <table>
+    <tr>
+      <th width="30%">PROJECT</th>
+      <th width="20%">STATUS</th>
+      <th width="50%">PROGRESS</th>
+    </tr>
+    <tr>
+      <td><code>Navi_OS</code></td>
+      <td><span style="color: #7F16EE">█</span> ACTIVE</td>
+      <td><img src="https://progress-bar.dev/38/?color=7F16EE&width=200&title=SYNCING" alt="Progress"></td>
+    </tr>
+    <tr>
+      <td><code>Schumann</code></td>
+      <td><span style="color: #FF00FF">█</span> DEBUG</td>
+      <td><img src="https://progress-bar.dev/72/?color=FF00FF&width=200&title=ANALYZE" alt="Progress"></td>
+    </tr>
+  </table>
 </div>
 📟 CONNECTION NODES
 <div align="center" style="margin-top: 20px">
