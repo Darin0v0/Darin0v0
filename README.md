@@ -28,7 +28,7 @@
 
 ---
 
-### 💾 **DIGITAL SHRINE**  
+<center><h1>### 💾 **DIGITAL SHRINE**  </h1></center>
 ```python
 class LainInterface:
     def __init__(self):
