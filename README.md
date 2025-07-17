@@ -71,7 +71,7 @@ class LainInterface:
 📟 CONNECTION NODES
 <div align="center" style="margin-top: 20px">
 
-https://img.shields.io/badge/ENTER_THE_WIRED-000?style=for-the-badge&logo=internet-explorer&logoColor=7F16EE
-https://img.shields.io/badge/CYBERIA_CAFE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white
-https://komarev.com/ghpvc/?username=Darin0v0&label=WIRED_CONNECTIONS&color=7F16EE&style=for-the-badge
+<img src="https://img.shields.io/badge/ENTER_THE_WIRED-000?style=for-the-badge&logo=internet-explorer&logoColor=7F16EE">
+<img src="https://img.shields.io/badge/CYBERIA_CAFE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=Darin0v0&label=WIRED_CONNECTIONS&color=7F16EE&style=for-the-badge">
 </div>
