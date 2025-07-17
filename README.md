@@ -29,7 +29,7 @@
 
 <div align="center">
   <h1>💾 DIGITAL SHRINE</h1>
-
+<center>
   ```python
   class LainInterface:
       def __init__(self):
@@ -48,6 +48,8 @@
           print("Opening all gates to Layer 07...")
           return "CONNECTED"
 ```
+````
+</center>
 </div><div align="center"> <h1>📡 HARDWARE PROFILE</h1> <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0"> <a href="#"><img src="https://img.shields.io/badge/CYBERDELIC-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXptMCAxMkwyIDEzbDEwIDUgMTAtNS0xMC01eiIvPjwvc3ZnPg=="></a> <a href="#"><img src="https://img.shields.io/badge/PROTOCOL_7-7F16EE?style=for-the-badge&logo=terminal&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/NEON_PINK-FF00FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptMCA0NDhjLTExMC41IDAtMjAwLTg9LjUtMjAwLTIwMFMxNDUuNSA1NiAyNTYgNTZzMjAwIDg5LjUgMjAwIDIwMC04OS41IDIwMC0yMDAgMjAwem0xMDEuOC0yNjEuN2wtODQuOS02MS43Yy0zLjEtMi4yLTcuMi0uNy05LjEgMi4zbC0zMi4xIDUzLjljLTIuNSA0LjEtLjQgOS4xIDQuMSAxMS43bDg0LjkgNjEuN2MzLjEgMi4yIDcuMi43IDkuMS0yLjNsMzIuMS01My45YzIuNS00LjEuNC05LjEtNC4xLTExLjd6TTI1NiAxNDRjLTMwLjkgMC01NiAyNS4xLTU2IDU2czI1LjEgNTYgNTYgNTYgNTYtMjUuNSA1Ni01Ni0yNS4xLTU2LTU2LTU2em0wIDgwYy0xMy4yIDAtMjQtMTAuOC0yNC0yNHMxMC44LTI0IDI0LTI0IDI0IDEwLjggMjQgMjQtMTAuOCAyNC0yNCAyNHoiLz48L3N2Zz4="></a> <a href="#"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/GLSL-5686F5?style=for-the-badge&logo=opengl&logoColor=white"></a> </div> </div>
 <div align="center">
 <h1>🧬 ACTIVE PROTOCOLS</h1>
