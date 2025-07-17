@@ -1,20 +1,5 @@
 <!-- CSS Glitch Effect -->
-<style>
-  @keyframes glitch {
-    0% { text-shadow: 0.05em 0 0 #FF00FF, -0.05em -0.025em 0 #7F16EE; }
-    25% { text-shadow: -0.05em -0.025em 0 #FF00FF, 0.025em 0.025em 0 #7F16EE; }
-    50% { text-shadow: 0.025em 0.05em 0 #FF00FF, 0.05em 0 0 #7F16EE; }
-    100% { text-shadow: -0.025em 0 0 #FF00FF, -0.025em -0.025em 0 #7F16EE; }
-  }
-  .lain-glow {
-    animation: text-glow 2s infinite alternate;
-    text-shadow: 0 0 5px #7F16EE, 0 0 10px #FF00FF;
-  }
-  @keyframes text-glow {
-    from { text-shadow: 0 0 5px #7F16EE, 0 0 10px #7F16EE; }
-    to { text-shadow: 0 0 15px #FF00FF, 0 0 20px #FF00FF; }
-  }
-</style>
+
 
 <div align="center">
   <!-- Animated Wired Connection -->
