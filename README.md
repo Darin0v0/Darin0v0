@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  ### 💾 **DIGITAL SHRINE**  
+  <h1>💾 DIGITAL SHRINE</h1>
 
   ```python
   class LainInterface:
