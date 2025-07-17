@@ -1,5 +1,13 @@
 <div align="center">
   <img src="https://fauux.neocities.org/wiredLogInNew_512px_06.gif" width="600" alt="Let's all love Lain">
+
+
+<div class="opacityContent">
+<h1 id="intro">The Wired 2.0</h1>
+<hr>
+<h2 class="jp">⌈いとをひく⌋</h2>
+</div>
+
   
   <!-- Glitch text -->
   <h2> 
