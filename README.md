@@ -11,7 +11,10 @@
     animation: glitch 1s linear infinite;
     margin: 0;
   ">
-    ░▒▓█≪✠≫𝕃𝔸𝕀ℕ'𝕊 𝕎𝕀ℝ𝔼𝔻≪✠≫█▓▒░
+   
+The Wired 2.0
+⌈いとをひく⌋
+
   </h2>
 
   <!-- Pre-loaded typing animation -->
