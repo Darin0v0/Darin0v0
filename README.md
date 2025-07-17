@@ -21,15 +21,6 @@ The Wired 2.0<br><hr><br>
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=0&color=7F16EE&width=435&lines=CONNECTED+TO+THE+WIRED;PROTOCOL+7+ACTIVATED;USER%3A+DARIN0V0" alt="Terminal Text">
 </div>
 
-<!-- CSS Glitch Effect -->
-<style>
-  @keyframes glitch {
-    0% { text-shadow: 0.05em 0 0 #FF00FF, -0.05em -0.025em 0 #7F16EE; }
-    25% { text-shadow: -0.05em -0.025em 0 #FF00FF, 0.025em 0.025em 0 #7F16EE; }
-    50% { text-shadow: 0.025em 0.05em 0 #FF00FF, 0.05em 0 0 #7F16EE; }
-    100% { text-shadow: -0.025em 0 0 #FF00FF, -0.025em -0.025em 0 #7F16EE; }
-  }
-</style>
 
 ---
 
