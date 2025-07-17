@@ -36,6 +36,7 @@ class LainInterface:
     
     def __repr__(self):
         return "Present day... present time..."
+```
 📡 HARDWARE PROFILE
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">
 
