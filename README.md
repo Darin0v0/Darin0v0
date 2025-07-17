@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://fauux.neocities.org/LainDiss3.gif" width="600" alt="Let's all love Lain">
+  <img src="https://fauux.neocities.org/wiredLogInNew_512px_06.gif" width="600" alt="Let's all love Lain">
   
   <!-- Glitch text -->
   <h2> 
