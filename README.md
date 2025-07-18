@@ -22,7 +22,7 @@
   </h3>
 
   <!-- Terminal Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=0&color=7F16EE&width=500&lines=CONNECTED+TO+THE+WIRED;PROTOCOL+7+ACTIVATED;USER%3A+DARIN0V0;STATUS%3A+ONLINE" alt="Terminal Text">
+ 
 </div>
 
 ---
